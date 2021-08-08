@@ -8,7 +8,7 @@
     "bg_image_primary_opacity": 60,
     "bg_image_secondary": "/images/leaf-light-grey.svg",
     "bg_image_product": "/images/leaf.svg",
-    "snipcart_api_key": "",
+    "snipcart_api_key": "MzM1ZWI1ZTgtNDFjZS00MGNlLTk3NjYtMTRmOTg1NzE5ZTliNjM3NDI4ODU2NDg3ODk3NzE4",
     "footer_text": "Copyright 2021 Planty Inc. All rights reserved.",
     "palette": "green",
     "main_menu": [
@@ -27,5 +27,6 @@
             "url": "/faq",
             "style": "link"
         }
-    ]
+    ],
+    "domain": "https://successful-artichoke-0564a.netlify.app"
 }
